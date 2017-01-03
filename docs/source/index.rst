@@ -1,6 +1,6 @@
 
 
-$project
+hastur
 ==================================
 
 A multi-armed bandit library for python.
@@ -10,9 +10,9 @@ Implements several different bandit strategies to help select the best configura
 Some example code::
 
     import random
-    from $project.observations import Observation
-    from $project.arms import Arm
-    from $project.bandits import BayesianBandit
+    from hastur.observations import Observation
+    from hastur.arms import Arm
+    from hastur.bandits import BayesianBandit
     
     bb = BayesianBandit()
     
@@ -41,14 +41,14 @@ Installation
 
 Easy!::
 
-    pip install $project
+    pip install hastur
 
 
 Contribute
 ----------
 
-- Issue tracker: github.com:julbright/$project/issues
-- Source code: github.com:julbright/$project
+- Issue tracker: github.com:julbright/hastur/issues
+- Source code: github.com:julbright/hastur
 
 
 

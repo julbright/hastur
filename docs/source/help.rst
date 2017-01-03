@@ -1,11 +1,4 @@
 Help
 ====
-a
 
-Need further Help
------------------
-b
-
-This is depth 3 and isn't shown in toctree
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-c
+Need help? Email jim dot ulbright at the usual google mail address.
