@@ -39,9 +39,7 @@ Features
 Installation
 ------------
 
-Easy!::
-
-    pip install hastur
+    WIP
 
 
 Contribute
