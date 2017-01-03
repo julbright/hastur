@@ -1,8 +1,18 @@
-Multi-armed bandits for python!
-[![Build Status](https://travis-ci.org/julbright/hastur.svg?branch=develop)](https://travis-ci.org/julbright/hastur)
+hastur
+------
+python 3.5
+
+Hastur is a pure python implementation of multi-armed bandits. Have python3.5? That's all you need.
+
+Master:[![Build Status](https://travis-ci.org/julbright/hastur.svg?branch=master)](https://travis-ci.org/julbright/hastur)
+
+
+Develop: [![Build Status](https://travis-ci.org/julbright/hastur.svg?branch=develop)](https://travis-ci.org/julbright/hastur)
+
+
 
 ![Behold his many arms](Hastur.gif)
 
-By Robert M. Price - http://crypt-of-cthulhu.com/lovecraftderleth.htm, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=42872409
+Image by Robert M. Price - http://crypt-of-cthulhu.com/lovecraftderleth.htm, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=42872409
 
-Documentataion available at: some url.
+Documentataion available at: http://hastur.readthedocs.io/en/latest/
