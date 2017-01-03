@@ -1,4 +1,5 @@
 Multi-armed bandits for python!
+[![Build Status](https://travis-ci.org/julbright/hastur.svg?branch=develop)](https://travis-ci.org/julbright/hastur)
 
 ![Behold his many arms](Hastur.gif)
 
