@@ -24,7 +24,7 @@ setup(
     # the version across setup.py and the project code, see
     # https://packaging.python.org/en/latest/single_source_version.html
 
-    version='0.1.1',
+    version='0.1.2',
     description='A multi-armed bandit implementation in python',
     url='https://github.com/julbright/hastur',
     download_url='https://github.com/julbright/hastur/tarball/0.1.1',
@@ -56,6 +56,6 @@ setup(
     keywords=['ab testing', 'multi-armed bandits', 'statistics'],
 
     extras_require={
-        'test': ['nose=>1.3'],
+        'develop': ['nose>=1.3'],
     },
 )
