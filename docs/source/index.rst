@@ -40,7 +40,9 @@ Features
 Installation
 ------------
 
-    WIP
+    Use pip or clone from source::
+    
+        pip install hastur
 
 
 Contribute
