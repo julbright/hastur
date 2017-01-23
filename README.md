@@ -2,7 +2,7 @@ hastur
 ------
 python 3.5
 
-Hastur is a pure python implementation of multi-armed bandits. Have python3.5? That's all you need.
+Hastur is a pure python, standard library only implementation of multi-armed bandits. Have python3.5? That's all you need.
 
 Master:[![Build Status](https://travis-ci.org/julbright/hastur.svg?branch=master)](https://travis-ci.org/julbright/hastur)
 
@@ -10,6 +10,7 @@ Master:[![Build Status](https://travis-ci.org/julbright/hastur.svg?branch=master
 Develop: [![Build Status](https://travis-ci.org/julbright/hastur.svg?branch=develop)](https://travis-ci.org/julbright/hastur)
 
 
+Install: `pip install hastur`
 
 ![Behold his many arms](Hastur.gif)
 
