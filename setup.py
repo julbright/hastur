@@ -27,7 +27,7 @@ setup(
     version='0.1.2',
     description='A multi-armed bandit implementation in python',
     url='https://github.com/julbright/hastur',
-    download_url='https://github.com/julbright/hastur/tarball/0.1.1',
+    download_url='https://github.com/julbright/hastur/tarball/0.1.2',
     author='Jim Ulbright',
     author_email='jim.ulbright@gmail.com',
     license='MIT',
