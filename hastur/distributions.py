@@ -83,7 +83,8 @@ class BetaDistribution(object):
         """
 
         if self.alpha == 0 or self.beta == 0:
-            raise InsufficientObservationsError
+            raise InsufficientObservationsError("Alpha \
+            and beta must both be strictly positive.")
 
         draw = random.betavariate(alpha=self.alpha, beta=self.beta)
         return draw
